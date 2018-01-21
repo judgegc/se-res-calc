@@ -1,0 +1,22 @@
+#.travis.yml
+
+language: node_js
+node_js:
+  - "8"
+
+branches:
+  only:
+    - master
+
+before_script:
+  - npm install
+
+script:
+  - npm run build
+
+after_script:
+  - bash ./deploy-ghp.sh
+
+env:
+  global:
+  - GH_REF: github.com/judgegc/se-res-calc.git

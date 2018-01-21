@@ -1,0 +1,2534 @@
+{
+    "battery": {
+        "title": "Battery",
+        "components": {
+            "large": {
+                "steel_plate": 80,
+                "construction_component": 30,
+                "power_cell": 120,
+                "computer": 25
+            },
+            "small": {
+                "steel_plate": 25,
+                "construction_component": 5,
+                "power_cell": 20,
+                "computer": 2
+            }
+        },
+        "icon": "battery.png"
+    },
+    "light_armor_block": {
+        "title": "Light armor block",
+        "components": {
+            "large": {
+                "steel_plate": 25
+            },
+            "small": {
+                "steel_plate": 1
+            }
+        },
+        "icon": "light_armor_block.png"
+    },
+    "light_armor_slope": {
+        "title": "Light armor slope",
+        "components": {
+            "large": {
+                "steel_plate": 13
+            },
+            "small": {
+                "steel_plate": 1
+            }
+        },
+        "icon": "light_armor_slope.png"
+    },
+    "light_armor_corner": {
+        "title": "Light armor corner",
+        "components": {
+            "large": {
+                "steel_plate": 4
+            },
+            "small": {
+                "steel_plate": 1
+            }
+        },
+        "icon": "light_armor_corner.png"
+    },
+    "light_armor_inverted_corner": {
+        "title": "Light armor inverted corner",
+        "components": {
+            "large": {
+                "steel_plate": 21
+            },
+            "small": {
+                "steel_plate": 1
+            }
+        },
+        "icon": "light_armor_inverted_corner.png"
+    },
+    "light_round_armor_slope": {
+        "title": "Light round armor slope",
+        "components": {
+            "large": {
+                "steel_plate": 13
+            },
+            "small": {
+                "steel_plate": 1
+            }
+        },
+        "icon": "light_round_armor_slope.png"
+    },
+    "light_round_armor_corner": {
+        "title": "Light round armor corner",
+        "components": {
+            "large": {
+                "steel_plate": 4
+            },
+            "small": {
+                "steel_plate": 1
+            }
+        },
+        "icon": "light_round_armor_corner.png"
+    },
+    "heavy_armor_block": {
+        "title": "Heavy armor block",
+        "components": {
+            "large": {
+                "steel_plate": 150,
+                "metal_grid": 50
+            },
+            "small": {
+                "steel_plate": 5,
+                "metal_grid": 2
+            }
+        },
+        "icon": "heavy_armor_block.png"
+    },
+    "heavy_armor_slope": {
+        "title": "Heavy armor slope",
+        "components": {
+            "large": {
+                "steel_plate": 75,
+                "metal_grid": 25
+            },
+            "small": {
+                "steel_plate": 3,
+                "metal_grid": 1
+            }
+        },
+        "icon": "heavy_armor_slope.png"
+    },
+    "heavy_armor_corner": {
+        "title": "Heavy armor corner",
+        "components": {
+            "large": {
+                "steel_plate": 25,
+                "metal_grid": 10
+            },
+            "small": {
+                "steel_plate": 2,
+                "metal_grid": 1
+            }
+        },
+        "icon": "heavy_armor_corner.png"
+    },
+    "heavy_armor_inverted_corner": {
+        "title": "Heavy armor inverted corner",
+        "components": {
+            "large": {
+                "steel_plate": 125,
+                "metal_grid": 50
+            },
+            "small": {
+                "steel_plate": 4,
+                "metal_grid": 1
+            }
+        },
+        "icon": "heavy_armor_inverted_corner.png"
+    },
+    "half_light_armor_block": {
+        "title": "Half light armor block",
+        "components": {
+            "large": {
+                "steel_plate": 12
+            },
+            "small": {
+                "steel_plate": 1
+            }
+        },
+        "icon": "half_light_armor_block.png"
+    },
+    "half_heavy_armor_block": {
+        "title": "Half heavy armor block",
+        "components": {
+            "large": {
+                "steel_plate": 75,
+                "metal_grid": 25
+            },
+            "small": {
+                "steel_plate": 3,
+                "metal_grid": 1
+            }
+        },
+        "icon": "half_heavy_armor_block.png"
+    },
+    "half_slope_light_armor_block": {
+        "title": "Half slope light armor block",
+        "components": {
+            "large": {
+                "steel_plate": 7
+            },
+            "small": {
+                "steel_plate": 1
+            }
+        },
+        "icon": "half_slope_light_armor_block.png"
+    },
+    "half_slope_heavy_armor_block": {
+        "title": "Half slope heavy armor block",
+        "components": {
+            "large": {
+                "steel_plate": 45,
+                "metal_grid": 15
+            },
+            "small": {
+                "steel_plate": 2,
+                "metal_grid": 1
+            }
+        },
+        "icon": "half_slope_heavy_armor_block.png"
+    },
+    "light_round_armor_inv_corner": {
+        "title": "Light round armor inv corner",
+        "components": {
+            "large": {
+                "steel_plate": 21
+            },
+            "small": {
+                "steel_plate": 1
+            }
+        },
+        "icon": "light_round_armor_inv_corner.png"
+    },
+    "heavy_round_armor_slope": {
+        "title": "Heavy round armor slope",
+        "components": {
+            "large": {
+                "steel_plate": 130,
+                "metal_grid": 50
+            },
+            "small": {
+                "steel_plate": 4,
+                "metal_grid": 1
+            }
+        },
+        "icon": "heavy_round_armor_slope.png"
+    },
+    "heavy_round_armor_corner": {
+        "title": "Heavy round armor corner",
+        "components": {
+            "large": {
+                "steel_plate": 125,
+                "metal_grid": 40
+            },
+            "small": {
+                "steel_plate": 4,
+                "metal_grid": 1
+            }
+        },
+        "icon": "heavy_round_armor_corner.png"
+    },
+    "heavy_round_armor_inv_corner": {
+        "title": "Heavy round armor inv corner",
+        "components": {
+            "large": {
+                "steel_plate": 140,
+                "metal_grid": 50
+            },
+            "small": {
+                "steel_plate": 5,
+                "metal_grid": 1
+            }
+        },
+        "icon": "heavy_round_armor_inv_corner.png"
+    },
+    "light_armor_slope_2x1x1_base": {
+        "title": "Light armor slope 2x1x1 base",
+        "components": {
+            "large": {
+                "steel_plate": 19
+            },
+            "small": {
+                "steel_plate": 1
+            }
+        },
+        "icon": "light_slope_2x1x1_base.png"
+    },
+    "light_armor_slope_2x1x1_tip": {
+        "title": "Light armor slope 2x1x1 tip",
+        "components": {
+            "large": {
+                "steel_plate": 7
+            },
+            "small": {
+                "steel_plate": 1
+            }
+        },
+        "icon": "light_slope_2x1x1_tip.png"
+    },
+    "light_armor_corner_2x1x1_base": {
+        "title": "Light armor corner 2x1x1 base",
+        "components": {
+            "large": {
+                "steel_plate": 10
+            },
+            "small": {
+                "steel_plate": 1
+            }
+        },
+        "icon": "light_armor_corner_2x1x1_base.png"
+    },
+    "light_armor_corner_2x1x1_tip": {
+        "title": "Light armor corner 2x1x1 tip",
+        "components": {
+            "large": {
+                "steel_plate": 4
+            },
+            "small": {
+                "steel_plate": 1
+            }
+        },
+        "icon": "light_armor_corner_2x1x1_tip.png"
+    },
+    "light_inv_corner_2x1x1_base": {
+        "title": "Light inverted corner 2x1x1 base",
+        "components": {
+            "large": {
+                "steel_plate": 22
+            },
+            "small": {
+                "steel_plate": 1
+            }
+        },
+        "icon": "light_inv_corner_2x1x1_base.png"
+    },
+    "light_inv_corner_2x1x1_tip": {
+        "title": "Light inverted corner 2x1x1 tip",
+        "components": {
+            "large": {
+                "steel_plate": 16
+            },
+            "small": {
+                "steel_plate": 1
+            }
+        },
+        "icon": "light_inv_corner_2x1x1_tip.png"
+    },
+    "heavy_slope_2x1x1_base": {
+        "title": "Heavy slope 2x1x1 base",
+        "components": {
+            "large": {
+                "steel_plate": 112,
+                "metal_grid": 45
+            },
+            "small": {
+                "steel_plate": 4,
+                "metal_grid": 1
+            }
+        },
+        "icon": "heavy_slope_2x1x1_base.png"
+    },
+    "heavy_slope_2x1x1_tip": {
+        "title": "Heavy slope 2x1x1 tip",
+        "components": {
+            "large": {
+                "steel_plate": 35,
+                "metal_grid": 6
+            },
+            "small": {
+                "steel_plate": 2,
+                "metal_grid": 1
+            }
+        },
+        "icon": "heavy_slope_2x1x1_tip.png"
+    },
+    "heavy_corner_2x1x1_base": {
+        "title": "Heavy corner 2x1x1 base",
+        "components": {
+            "large": {
+                "steel_plate": 55,
+                "metal_grid": 15
+            },
+            "small": {
+                "steel_plate": 3,
+                "metal_grid": 1
+            }
+        },
+        "icon": "heavy_corner_2x1x1_base.png"
+    },
+    "heavy_corner_2x1x1_tip": {
+        "title": "Heavy corner 2x1x1 tip",
+        "components": {
+            "large": {
+                "steel_plate": 19,
+                "metal_grid": 6
+            },
+            "small": {
+                "steel_plate": 2,
+                "metal_grid": 1
+            }
+        },
+        "icon": "heavy_corner_2x1x1_tip.png"
+    },
+    "heavy_inv_corner_2x1x1_base": {
+        "title": "Heavy inverted corner 2x1x1 base",
+        "components": {
+            "large": {
+                "steel_plate": 133,
+                "metal_grid": 45
+            },
+            "small": {
+                "steel_plate": 5,
+                "metal_grid": 1
+            }
+        },
+        "icon": "heavy_inv_corner_2x1x1_base.png"
+    },
+    "heavy_inv_corner_2x1x1_tip": {
+        "title": "Heavy inverted corner 2x1x1 tip",
+        "components": {
+            "large": {
+                "steel_plate": 94,
+                "metal_grid": 25
+            },
+            "small": {
+                "steel_plate": 5,
+                "metal_grid": 1
+            }
+        },
+        "icon": "heavy_inv_corner_2x1x1_tip.png"
+    },
+    "control_panel": {
+        "title": "Control panel",
+        "components": {
+            "large": {
+                "steel_plate": 1,
+                "construction_component": 1,
+                "computer": 1,
+                "display": 1
+            },
+            "small": {
+                "steel_plate": 1,
+                "construction_component": 1,
+                "computer": 1,
+                "display": 1
+            }
+        },
+        "icon": "control_panel.png"
+    },
+    "gatling_turret": {
+        "title": "Gatling turret",
+        "components": {
+            "large": {
+                "steel_plate": 20,
+                "construction_component": 30,
+                "metal_grid": 15,
+                "large_steel_tube": 1,
+                "motor": 8,
+                "computer": 10
+            },
+            "small": {
+                "steel_plate": 10,
+                "construction_component": 30,
+                "metal_grid": 5,
+                "large_steel_tube": 1,
+                "motor": 4,
+                "computer": 10
+            }
+        },
+        "icon": "gatling_turret.png"
+    },
+    "missile_turret": {
+        "title": "Missile turret",
+        "components": {
+            "large": {
+                "steel_plate": 20,
+                "construction_component": 40,
+                "metal_grid": 5,
+                "large_steel_tube": 6,
+                "motor": 16,
+                "computer": 12
+            },
+            "small": {
+                "steel_plate": 10,
+                "construction_component": 40,
+                "metal_grid": 2,
+                "large_steel_tube": 2,
+                "motor": 8,
+                "computer": 12
+            }
+        },
+        "icon": "missile_turret.png"
+    },
+    "interior_turret": {
+        "title": "Interior turret",
+        "components": {
+            "large": {
+                "interior_plate": 6,
+                "construction_component": 20,
+                "small_steel_tube": 2,
+                "large_steel_tube": 1,
+                "motor": 2,
+                "computer": 5,
+                "steel_plate": 4
+            }
+        },
+        "icon": "interior_turret.png"
+    },
+    "passage": {
+        "title": "Passage",
+        "components": {
+            "large": {
+                "interior_plate": 74,
+                "construction_component": 20,
+                "small_steel_tube": 48
+            }
+        },
+        "icon": "passage.png"
+    },
+    "door": {
+        "title": "Door",
+        "components": {
+            "large": {
+                "steel_plate": 8,
+                "interior_plate": 10,
+                "construction_component": 40,
+                "small_steel_tube": 4,
+                "motor": 2,
+                "display": 1,
+                "computer": 2
+            }
+        },
+        "icon": "door.png"
+    },
+    "antenna": {
+        "title": "Antenna",
+        "components": {
+            "large": {
+                "steel_plate": 80,
+                "construction_component": 40,
+                "small_steel_tube": 60,
+                "large_steel_tube": 40,
+                "computer": 8,
+                "radio-communication_components": 40
+            },
+            "small": {
+                "steel_plate": 1,
+                "small_steel_tube": 1,
+                "computer": 1,
+                "construction_component": 2,
+                "radio-communication_components": 4
+            }
+        },
+        "icon": "antenna.png"
+    },
+    "beacon": {
+        "title": "Beacon",
+        "components": {
+            "large": {
+                "steel_plate": 80,
+                "construction_component": 40,
+                "small_steel_tube": 60,
+                "large_steel_tube": 40,
+                "computer": 8,
+                "radio-communication_components": 40
+            },
+            "small": {
+                "steel_plate": 2,
+                "construction_component": 1,
+                "small_steel_tube": 1,
+                "computer": 1
+            }
+        },
+        "icon": "beacon.png"
+    },
+    "spotlight": {
+        "title": "Spotlight",
+        "components": {
+            "large": {
+                "steel_plate": 8,
+                "interior_plate": 20,
+                "construction_component": 20,
+                "large_steel_tube": 2,
+                "bulletproof_glass": 2
+            },
+            "small": {
+                "steel_plate": 1,
+                "construction_component": 1,
+                "interior_plate": 1
+            }
+        },
+        "icon": "spotlight.png"
+    },
+    "interior_light": {
+        "title": "Interior light",
+        "components": {
+            "large": {
+                "steel_plate": 1,
+                "construction_component": 1
+            },
+            "small": {
+                "steel_plate": 1,
+                "construction_component": 1
+            }
+        },
+        "icon": "interior_light.png"
+    },
+    "corner_light": {
+        "title": "Corner light",
+        "components": {
+            "large": {
+                "construction_component": 3
+            },
+            "small": {
+                "construction_component": 2
+            }
+        },
+        "icon": "corner_light.png"
+    },
+    "corner_light_double": {
+        "title": "Corner light double",
+        "components": {
+            "large": {
+                "construction_component": 6
+            },
+            "small": {
+                "construction_component": 4
+            }
+        },
+        "icon": "corner_light_double.png"
+    },
+    "vertical_window": {
+        "title": "Vertical window",
+        "components": {
+            "large": {
+                "interior_plate": 12,
+                "construction_component": 8,
+                "small_steel_tube": 4
+            }
+        },
+        "icon": "vertical_window.png"
+    },
+    "diagonal_window": {
+        "title": "Diagonal window",
+        "components": {
+            "large": {
+                "interior_plate": 16,
+                "construction_component": 12,
+                "small_steel_tube": 6
+            }
+        },
+        "icon": "diagonal_window.png"
+    },
+    "stairs": {
+        "title": "Stairs",
+        "components": {
+            "large": {
+                "interior_plate": 50,
+                "construction_component": 30
+            }
+        },
+        "icon": "stairs.png"
+    },
+    "ramp": {
+        "title": "Ramp",
+        "components": {
+            "large": {
+                "interior_plate": 70,
+                "construction_component": 16
+            }
+        },
+        "icon": "ramp.png"
+    },
+    "steel_catwalk": {
+        "title": "Steel catwalk",
+        "components": {
+            "large": {
+                "interior_plate": 27,
+                "construction_component": 5,
+                "small_steel_tube": 20
+            }
+        },
+        "icon": "steel_catwalk.png"
+    },
+    "steel_catwalk_two_sides": {
+        "title": "Steel catwalk two sides",
+        "components": {
+            "large": {
+                "interior_plate": 32,
+                "construction_component": 7,
+                "small_steel_tube": 25
+            }
+        },
+        "icon": "steel_catwalk_two_sides.png"
+    },
+    "steel_catwalk_corner": {
+        "title": "Steel catwalk corner",
+        "components": {
+            "large": {
+                "interior_plate": 32,
+                "construction_component": 7,
+                "small_steel_tube": 25
+            }
+        },
+        "icon": "steel_catwalk_corner.png"
+    },
+    "steel_catwalk_plate": {
+        "title": "Steel catwalk plate",
+        "components": {
+            "large": {
+                "interior_plate": 23,
+                "construction_component": 7,
+                "small_steel_tube": 17
+            }
+        },
+        "icon": "steel_catwalk_plate.png"
+    },
+    "full_cover_wall": {
+        "title": "Full cover wall",
+        "components": {
+            "large": {
+                "steel_plate": 4,
+                "construction_component": 10
+            }
+        },
+        "icon": "full_cover_wall.png"
+    },
+    "half_cover_wall": {
+        "title": "Half cover wall",
+        "components": {
+            "large": {
+                "steel_plate": 2,
+                "construction_component": 6
+            }
+        },
+        "icon": "half_cover_wall.png"
+    },
+    "warhead": {
+        "title": "Warhead",
+        "components": {
+            "large": {
+                "steel_plate": 20,
+                "girder": 24,
+                "construction_component": 12,
+                "small_steel_tube": 12,
+                "computer": 2,
+                "explosives": 6
+            },
+            "small": {
+                "steel_plate": 4,
+                "girder": 1,
+                "construction_component": 1,
+                "small_steel_tube": 2,
+                "computer": 1,
+                "explosives": 2
+            }
+        },
+        "icon": "warhead.png"
+    },
+    "decoy": {
+        "title": "Decoy",
+        "components": {
+            "large": {
+                "steel_plate": 3,
+                "construction_component": 1,
+                "computer": 2,
+                "radio-communication_components": 1,
+                "large_steel_tube": 2
+            },
+            "small": {
+                "steel_plate": 1,
+                "construction_component": 1,
+                "computer": 1,
+                "radio-communication_components": 1,
+                "small_steel_tube": 2,
+                "girder": 1
+            }
+        },
+        "icon": "decoy.png"
+    },
+    "interior_wall": {
+        "title": "Interior wall",
+        "components": {
+            "large": {
+                "interior_plate": 25,
+                "construction_component": 10
+            }
+        },
+        "icon": "interior_wall.png"
+    },
+    "interior_pillar": {
+        "title": "Interior pillar",
+        "components": {
+            "large": {
+                "interior_plate": 25,
+                "construction_component": 10,
+                "small_steel_tube": 4
+            }
+        },
+        "icon": "interior_pillar.png"
+    },
+    "landing_gear": {
+        "title": "Landing gear",
+        "components": {
+            "large": {
+                "steel_plate": 150,
+                "construction_component": 10,
+                "large_steel_tube": 4,
+                "motor": 6
+            },
+            "small": {
+                "steel_plate": 2,
+                "construction_component": 1,
+                "large_steel_tube": 1,
+                "motor": 1
+            }
+        },
+        "icon": "landing_gear.png"
+    },
+    "projector": {
+        "title": "Projector",
+        "components": {
+            "large": {
+                "steel_plate": 21,
+                "construction_component": 4,
+                "large_steel_tube": 2,
+                "motor": 1,
+                "computer": 2
+            },
+            "small": {
+                "steel_plate": 2,
+                "construction_component": 2,
+                "large_steel_tube": 2,
+                "motor": 1,
+                "computer": 2
+            }
+        },
+        "icon": "projector.png"
+    },
+    "refinery": {
+        "title": "Refinery",
+        "components": {
+            "large": {
+                "steel_plate": 1200,
+                "construction_component": 40,
+                "large_steel_tube": 20,
+                "motor": 16,
+                "computer": 20
+            }
+        },
+        "icon": "refinery.png"
+    },
+    "arc_furnace": {
+        "title": "Arc furnace",
+        "components": {
+            "large": {
+                "steel_plate": 120,
+                "construction_component": 5,
+                "large_steel_tube": 2,
+                "motor": 4,
+                "computer": 5
+            }
+        },
+        "icon": "arc_furnace.png"
+    },
+    "oxygen_generator": {
+        "title": "Oxygen generator",
+        "components": {
+            "large": {
+                "steel_plate": 120,
+                "construction_component": 5,
+                "large_steel_tube": 2,
+                "motor": 4,
+                "computer": 5
+            },
+            "small": {
+                "steel_plate": 8,
+                "construction_component": 8,
+                "motor": 1,
+                "large_steel_tube": 2,
+                "computer": 3
+            }
+        },
+        "icon": "oxygen_generator.png"
+    },
+    "assembler": {
+        "title": "Assembler",
+        "components": {
+            "large": {
+                "steel_plate": 150,
+                "construction_component": 40,
+                "motor": 8,
+                "display": 4,
+                "computer": 80
+            }
+        },
+        "icon": "assembler.png"
+    },
+    "ore_detector": {
+        "title": "Ore detector",
+        "components": {
+            "large": {
+                "steel_plate": 50,
+                "construction_component": 40,
+                "motor": 5,
+                "computer": 25,
+                "detector_components": 25
+            },
+            "small": {
+                "steel_plate": 3,
+                "construction_component": 2,
+                "motor": 1,
+                "computer": 1,
+                "detector_components": 1
+            }
+        },
+        "icon": "ore_detector.png"
+    },
+    "medical_room": {
+        "title": "Medical room",
+        "components": {
+            "large": {
+                "interior_plate": 240,
+                "construction_component": 80,
+                "metal_grid": 60,
+                "small_steel_tube": 20,
+                "large_steel_tube": 5,
+                "display": 10,
+                "computer": 10,
+                "medical_components": 15
+            }
+        },
+        "icon": "medical_room.png"
+    },
+    "gravity_generator": {
+        "title": "Gravity generator",
+        "components": {
+            "large": {
+                "steel_plate": 150,
+                "gravity_generator_components": 6,
+                "construction_component": 60,
+                "large_steel_tube": 4,
+                "motor": 6,
+                "computer": 40
+            }
+        },
+        "icon": "gravity_generator.png"
+    },
+    "spherical_gravity_generator": {
+        "title": "Spherical gravity geenrator",
+        "components": {
+            "large": {
+                "steel_plate": 150,
+                "gravity_generator_components": 6,
+                "construction_component": 60,
+                "large_steel_tube": 4,
+                "motor": 6,
+                "computer": 40
+            }
+        },
+        "icon": "spherical_gravity_generator.png"
+    },
+    "jump_drive": {
+        "title": "Jump drive",
+        "components": {
+            "large": {
+                "steel_plate": 40,
+                "large_steel_tube": 40,
+                "metal_grid": 50,
+                "gravity_generator_components": 20,
+                "detector_components": 20,
+                "power_cell": 120,
+                "superconductor_component": 1000,
+                "computer": 300,
+                "construction_component": 40
+            }
+        },
+        "icon": "jump_drive.png"
+    },
+    "control_station": {
+        "title": "Control station",
+        "components": {
+            "large": {
+                "interior_plate": 20,
+                "construction_component": 20,
+                "motor": 2,
+                "computer": 100,
+                "display": 10,
+                "bulletproof_glass": 10
+            }
+        },
+        "icon": "control_station.png"
+    },
+    "cockpit": {
+        "title": "Cockpit",
+        "components": {
+            "large": {
+                "steel_plate": 30,
+                "construction_component": 20,
+                "motor": 1,
+                "display": 8,
+                "computer": 100,
+                "bulletproof_glass": 60
+            },
+            "small": {
+                "steel_plate": 10,
+                "construction_component": 10,
+                "motor": 1,
+                "display": 5,
+                "computer": 15,
+                "bulletproof_glass": 30
+            }
+        },
+        "icon": "cockpit.png"
+    },
+    "fighter_cockpit": {
+        "title": "Fighter cockpit",
+        "components": {
+            "small": {
+                "steel_plate": 20,
+                "construction_component": 20,
+                "motor": 1,
+                "metal_grid": 10,
+                "interior_plate": 15,
+                "display": 4,
+                "computer": 20,
+                "bulletproof_glass": 40
+            }
+        },
+        "icon": "fighter_cockpit.png"
+    },
+    "flight_seat": {
+        "title": "Flight seat",
+        "components": {
+            "large": {
+                "interior_plate": 20,
+                "construction_component": 20,
+                "motor": 2,
+                "computer": 100,
+                "display": 4
+            }
+        },
+        "icon": "flight_seat.png"
+    },
+    "passenger_seat": {
+        "title": "Passenger seat",
+        "components": {
+            "large": {
+                "interior_plate": 20,
+                "construction_component": 20
+            },
+            "small": {
+                "interior_plate": 20,
+                "construction_component": 20
+            }
+        },
+        "icon": "passenger_seat.png"
+    },
+    "cryo_chamber": {
+        "title": "Cryo chamber",
+        "components": {
+            "large": {
+                "interior_plate": 40,
+                "construction_component": 20,
+                "motor": 8,
+                "display": 8,
+                "computer": 30,
+                "bulletproof_glass": 10
+            }
+        },
+        "icon": "cryo_chamber.png"
+    },
+    "rocket_launcher": {
+        "title": "Rocket launcher",
+        "components": {
+            "small": {
+                "steel_plate": 4,
+                "construction_component": 2,
+                "metal_grid": 1,
+                "large_steel_tube": 4,
+                "motor": 1,
+                "computer": 1
+            },
+            "large": {
+                "steel_plate": 35,
+                "construction_component": 8,
+                "metal_grid": 30,
+                "large_steel_tube": 25,
+                "motor": 6,
+                "computer": 4
+            }
+        },
+        "icon": "rocket_launcher.png"
+    },
+    "reloadable_rocket_launcher": {
+        "title": "Reloadable rocket launcher",
+        "components": {
+            "small": {
+                "steel_plate": 8,
+                "small_steel_tube": 50,
+                "interior_plate": 50,
+                "construction_component": 24,
+                "large_steel_tube": 8,
+                "metal_grid": 10,
+                "motor": 4,
+                "computer": 2
+            }
+        },
+        "icon": "reloadable_rocket_launcher.png"
+    },
+    "gatling_gun": {
+        "title": "Gatling gun",
+        "components": {
+            "small": {
+                "steel_plate": 4,
+                "construction_component": 1,
+                "metal_grid": 2,
+                "small_steel_tube": 3,
+                "motor": 1,
+                "computer": 1
+            }
+        },
+        "icon": "gatling_gun.png"
+    },
+    "drill": {
+        "title": "Drill",
+        "components": {
+            "small": {
+                "steel_plate": 32,
+                "construction_component": 30,
+                "large_steel_tube": 4,
+                "motor": 1,
+                "computer": 1
+            },
+            "large": {
+                "steel_plate": 300,
+                "construction_component": 40,
+                "small_steel_tube": 24,
+                "large_steel_tube": 12,
+                "motor": 5,
+                "computer": 5
+            }
+        },
+        "icon": "drill.png"
+    },
+    "sensor": {
+        "title": "Sensor",
+        "components": {
+            "small": {
+                "interior_plate": 5,
+                "construction_component": 5,
+                "computer": 6,
+                "radio-communication_components": 4,
+                "detector_components": 6,
+                "steel_plate": 2
+            },
+            "large": {
+                "interior_plate": 5,
+                "construction_component": 5,
+                "computer": 6,
+                "radio-communication_components": 4,
+                "detector_components": 6,
+                "steel_plate": 2
+            }
+        },
+        "icon": "sensor.png"
+    },
+    "sound_block": {
+        "title": "Sound block",
+        "components": {
+            "small": {
+                "interior_plate": 4,
+                "construction_component": 6,
+                "computer": 3
+            },
+            "large": {
+                "interior_plate": 15,
+                "construction_component": 10,
+                "computer": 15
+            }
+        },
+        "icon": "sound_block.png"
+    },
+    "text_panel": {
+        "title": "Text panel",
+        "components": {
+            "small": {
+                "interior_plate": 1,
+                "construction_component": 4,
+                "computer": 4,
+                "display": 3
+            },
+            "large": {
+                "interior_plate": 1,
+                "construction_component": 6,
+                "computer": 6,
+                "display": 10
+            }
+        },
+        "icon": "text_panel.png"
+    },
+    "wide_lcd_panel": {
+        "title": "Wide LCD panel",
+        "icon": "wide_lcd_panel.png",
+        "components": {
+            "small": {
+                "bulletproof_glass": 2,
+                "display": 6,
+                "computer": 8,
+                "construction_component": 8,
+                "interior_plate": 1
+            },
+            "large": {
+                "bulletproof_glass": 12,
+                "display": 20,
+                "computer": 12,
+                "construction_component": 12,
+                "interior_plate": 2
+            }
+        }
+    },
+    "corner_lcd_top": {
+        "title": "Corner LCD top",
+        "components": {
+            "large": {
+                "construction_component": 5,
+                "computer": 3,
+                "display": 1
+            },
+            "small": {
+                "construction_component": 3,
+                "computer": 2,
+                "display": 1
+            }
+        },
+        "icon": "corner_lcd_top.png"
+    },
+    "corner_lcd_bottom": {
+        "title": "Corner LCD bottom",
+        "components": {
+            "large": {
+                "construction_component": 5,
+                "computer": 3,
+                "display": 1
+            },
+            "small": {
+                "construction_component": 3,
+                "computer": 2,
+                "display": 1
+            }
+        },
+        "icon": "corner_lcd_bottom.png"
+    },
+    "corner_lcd_flat_top": {
+        "title": "Corner LCD flat top",
+        "components": {
+            "large": {
+                "construction_component": 5,
+                "computer": 3,
+                "display": 1
+            },
+            "small": {
+                "construction_component": 3,
+                "computer": 2,
+                "display": 1
+            }
+        },
+        "icon": "corner_lcd_flat_top.png"
+    },
+    "corner_lcd_flat_bottom": {
+        "title": "Corner LCD flat bottom",
+        "components": {
+            "large": {
+                "construction_component": 5,
+                "computer": 3,
+                "display": 1
+            },
+            "small": {
+                "construction_component": 3,
+                "computer": 2,
+                "display": 1
+            }
+        },
+        "icon": "corner_lcd_flat_bottom.png"
+    },
+    "oxygen_tank": {
+        "title": "Oxygen tank",
+        "components": {
+            "small": {
+                "steel_plate": 14,
+                "construction_component": 10,
+                "small_steel_tube": 10,
+                "large_steel_tube": 2,
+                "computer": 3
+            },
+            "large": {
+                "steel_plate": 80,
+                "large_steel_tube": 40,
+                "small_steel_tube": 60,
+                "computer": 8,
+                "construction_component": 40
+            }
+        },
+        "icon": "oxygen_tank.png"
+    },
+    "remote_control": {
+        "title": "Remote control",
+        "components": {
+            "large": {
+                "interior_plate": 10,
+                "construction_component": 10,
+                "motor": 1,
+                "computer": 15
+            },
+            "small": {
+                "interior_plate": 2,
+                "construction_component": 1,
+                "motor": 1,
+                "computer": 1
+            }
+        },
+        "icon": "remote_control.png"
+    },
+    "air_vent": {
+        "title": "Air vent",
+        "components": {
+            "large": {
+                "steel_plate": 80,
+                "construction_component": 30,
+                "metal_grid": 5,
+                "computer": 5
+            },
+            "small": {
+                "steel_plate": 8,
+                "construction_component": 10,
+                "metal_grid": 2,
+                "computer": 5
+            }
+        },
+        "icon": "air_vent.png"
+    },
+    "hydrogen_tank": {
+        "title": "Hydrogen tank",
+        "components": {
+            "small": {
+                "steel_plate": 80,
+                "large_steel_tube": 40,
+                "small_steel_tube": 60,
+                "computer": 8,
+                "construction_component": 40
+            },
+            "large": {
+                "steel_plate": 280,
+                "large_steel_tube": 80,
+                "small_steel_tube": 60,
+                "computer": 8,
+                "construction_component": 40
+            }          
+        },
+        "icon": "hydrogen_tank.png"
+    },
+    "speed_module": {
+        "title": "Speed module",
+        "components": {
+            "large": {
+                "steel_plate": 100,
+                "construction_component": 40,
+                "small_steel_tube": 20,
+                "large_steel_tube": 10,
+                "motor": 2
+            }
+        },
+        "icon": "productivity_upgrade_module.png"
+    },
+    "effectiveness_module": {
+        "title": "Yield module",
+        "components": {
+            "large": {
+                "steel_plate": 100,
+                "construction_component": 50,
+                "small_steel_tube": 15,
+                "metal_grid": 10,
+                "motor": 5
+            }
+        },
+        "icon": "effectiveness_upgrade_module.png"
+    },
+    "power_efficiency_module": {
+        "title": "Power efficiency module",
+        "components": {
+            "large": {
+                "steel_plate": 100,
+                "construction_component": 40,
+                "small_steel_tube": 20,
+                "large_steel_tube": 10,
+                "motor": 2
+            }
+        },
+        "icon": "power_efficiency_upgrade_module.png"
+    },
+    "small_cargo_container": {
+        "title": "Small cargo container",
+        "components": {
+            "small": {
+                "interior_plate": 3,
+                "construction_component": 1,
+                "computer": 1,
+                "motor": 1,
+                "display": 1
+            },
+            "large": {
+                "interior_plate": 40,
+                "construction_component": 40,
+                "metal_grid": 4,
+                "small_steel_tube": 20,
+                "motor": 4,
+                "display": 1,
+                "computer": 2
+            }
+        },
+        "icon": "small_cargo_container.png"
+    },
+    "medium_cargo_container": {
+        "title": "Medium cargo container",
+        "components": {
+            "small": {
+                "interior_plate": 30,
+                "construction_component": 10,
+                "computer": 4,
+                "motor": 4,
+                "display": 1
+            }
+        },
+        "icon": "medium_cargo_container.png"
+    },
+    "large_cargo_container": {
+        "title": "Large cargo container",
+        "components": {
+            "small": {
+                "interior_plate": 75,
+                "construction_component": 25,
+                "computer": 6,
+                "motor": 8,
+                "display": 1
+            },
+            "large": {
+                "interior_plate": 360,
+                "construction_component": 80,
+                "metal_grid": 24,
+                "small_steel_tube": 60,
+                "motor": 20,
+                "display": 1,
+                "computer": 8
+            }
+        },
+        "icon": "large_cargo_container.png"
+    },
+    "small_thruster": {
+        "title": "Small thruster",
+        "components": {
+            "small": {
+                "steel_plate": 2,
+                "large_steel_tube": 1,
+                "thruster_components": 1,
+                "construction_component": 1
+            },
+            "large": {
+                "steel_plate": 25,
+                "construction_component": 60,
+                "large_steel_tube": 8,
+                "thruster_components": 80
+            }
+        },
+        "icon": "small_thruster.png"
+    },
+    "large_thruster": {
+        "title": "Large thruster",
+        "components": {
+            "small": {
+                "steel_plate": 5,
+                "construction_component": 2,
+                "large_steel_tube": 5,
+                "thruster_components": 12
+            },
+            "large": {
+                "steel_plate": 150,
+                "construction_component": 100,
+                "large_steel_tube": 40,
+                "thruster_components": 960
+            }
+        },
+        "icon": "large_thruster.png"
+    },
+    "large_hydrogen_thruster": {
+        "title": "Large hydrogen thruster",
+        "components": {
+            "large": {
+                "steel_plate": 150,
+                "construction_component": 180,
+                "metal_grid": 250,
+                "large_steel_tube": 40
+            },
+            "small": {
+                "steel_plate": 30,
+                "construction_component": 30,
+                "metal_grid": 22,
+                "large_steel_tube": 10
+            }
+        },
+        "icon": "large_hydrogen_thruster.png"
+    },
+    "small_hydrogen_thruster": {
+        "title": "Small hydrogen thruster",
+        "components": {
+            "large": {
+                "steel_plate": 25,
+                "construction_component": 60,
+                "metal_grid": 40,
+                "large_steel_tube": 8
+            },
+            "small": {
+                "steel_plate": 7,
+                "construction_component": 15,
+                "metal_grid": 4,
+                "large_steel_tube": 2
+            }
+        },
+        "icon": "small_hydrogen_thruster.png"
+    },
+    "large_atmospheric_thruster": {
+        "title": "Large atmospheric thruster",
+        "components": {
+            "large": {
+                "steel_plate": 230,
+                "construction_component": 60,
+                "large_steel_tube": 50,
+                "metal_grid": 40,
+                "motor": 1136
+            },
+            "small": {
+                "steel_plate": 20,
+                "construction_component": 30,
+                "large_steel_tube": 4,
+                "metal_grid": 8,
+                "motor": 144
+            }
+        },
+        "icon": "large_atmospheric_thruster.png"
+    },
+    "small_atmospheric_thruster": {
+        "title": "Small atmospheric thruster",
+        "components": {
+            "large": {
+                "steel_plate": 35,
+                "construction_component": 50,
+                "large_steel_tube": 8,
+                "metal_grid": 10,
+                "motor": 113
+            },
+            "small": {
+                "steel_plate": 3,
+                "large_steel_tube": 1,
+                "metal_grid": 1,
+                "motor": 18,
+                "construction_component": 2
+            }
+        },
+        "icon": "small_atmospheric_thruster.png"
+    },
+    "camera": {
+        "title": "Camera",
+        "components": {
+            "small": {
+                "steel_plate": 2,
+                "computer": 3
+            },
+            "large": {
+                "steel_plate": 2,
+                "computer": 3
+            }
+        },
+        "icon": "camera.png"
+    },
+    "gyroscope": {
+        "title": "Gyroscope",
+        "components": {
+            "large": {
+                "steel_plate": 600,
+                "construction_component": 40,
+                "large_steel_tube": 4,
+                "metal_grid": 50,
+                "motor": 4,
+                "computer": 5
+            },
+            "small": {
+                "steel_plate": 25,
+                "construction_component": 5,
+                "large_steel_tube": 1,
+                "motor": 2,
+                "computer": 3
+            }
+        },
+        "icon": "gyroscope.png"
+    },
+    "small_reactor": {
+        "title": "Small reactor",
+        "components": {
+            "small": {
+                "steel_plate": 3,
+                "construction_component": 10,
+                "metal_grid": 2,
+                "large_steel_tube": 1,
+                "reactor_components": 3,
+                "motor": 1,
+                "computer": 10
+            },
+            "large": {
+                "steel_plate": 80,
+                "construction_component": 40,
+                "metal_grid": 4,
+                "large_steel_tube": 8,
+                "reactor_components": 100,
+                "motor": 6,
+                "computer": 25
+            }
+        },
+        "icon": "small_reactor.png"
+    },
+    "large_reactor": {
+        "title": "Large reactor",
+        "components": {
+            "small": {
+                "steel_plate": 60,
+                "construction_component": 9,
+                "metal_grid": 9,
+                "large_steel_tube": 3,
+                "reactor_components": 95,
+                "motor": 5,
+                "computer": 25
+            },
+            "large": {
+                "steel_plate": 1000,
+                "construction_component": 70,
+                "metal_grid": 40,
+                "large_steel_tube": 40,
+                "superconductor_component": 100,
+                "reactor_components": 2000,
+                "motor": 20,
+                "computer": 75
+            }
+        },
+        "icon": "large_reactor.png"
+    },
+    "piston_base": {
+        "title": "Piston base",
+        "components": {
+            "large": {
+                "steel_plate": 15,
+                "construction_component": 10,
+                "large_steel_tube": 4,
+                "motor": 4,
+                "computer": 2
+            },
+            "small": {
+                "steel_plate": 4,
+                "construction_component": 4,
+                "small_steel_tube": 4,
+                "motor": 2,
+                "computer": 1
+            }
+        },
+        "icon": "piston_base.png"
+    },
+    "piston_top": {
+        "title": "Piston top",
+        "components": {
+            "large": {
+                "steel_plate": 10,
+                "large_steel_tube": 8
+            },
+            "small": {
+                "steel_plate": 4,
+                "large_steel_tube": 2
+            }
+        },
+        "icon": "piston_top.png"
+    },
+    "rotor": {
+        "title": "Rotor",
+        "components": {
+            "large": {
+                "steel_plate": 15,
+                "construction_component": 10,
+                "large_steel_tube": 4,
+                "motor": 4,
+                "computer": 2
+            },
+            "small": {
+                "steel_plate": 5,
+                "construction_component": 5,
+                "small_steel_tube": 1,
+                "motor": 1,
+                "computer": 1
+            }
+        },
+        "icon": "rotor.png"
+    },
+    "wheel_suspension_3x3": {
+        "title": "Wheel suspension 3x3",
+        "components": {
+            "large": {
+                "steel_plate": 25,
+                "construction_component": 15,
+                "large_steel_tube": 6,
+                "small_steel_tube": 12,
+                "motor": 6
+            },
+            "small": {
+                "steel_plate": 8,
+                "construction_component": 7,
+                "small_steel_tube": 2,
+                "motor": 1
+            }
+        },
+        "icon": "wheel_suspension_3x3.png"
+    },
+    "wheel_suspension_5x5": {
+        "title": "Wheel suspension 5x5",
+        "components": {
+            "large": {
+                "steel_plate": 70,
+                "construction_component": 40,
+                "large_steel_tube": 20,
+                "small_steel_tube": 30,
+                "motor": 20
+            },
+            "small": {
+                "steel_plate": 16,
+                "construction_component": 12,
+                "small_steel_tube": 4,
+                "motor": 2
+            }
+        },
+        "icon": "wheel_suspension_5x5.png"
+    },
+    "wheel_suspension_1x1": {
+        "title": "Wheel suspension 1x1",
+        "components": {
+            "large": {
+                "steel_plate": 25,
+                "construction_component": 15,
+                "large_steel_tube": 6,
+                "small_steel_tube": 12,
+                "motor": 6
+            },
+            "small": {
+                "steel_plate": 8,
+                "construction_component": 7,
+                "small_steel_tube": 2,
+                "motor": 1
+            }
+        },
+        "icon": "wheel_suspension_1x1.png"
+    },
+    "rotor_part": {
+        "title": "Rotor part",
+        "components": {
+            "large": {
+                "steel_plate": 30,
+                "large_steel_tube": 24
+            },
+            "small": {
+                "steel_plate": 1,
+                "small_steel_tube": 1
+            }
+        },
+        "icon": "rotor_part.png"
+    },
+    "advanced_rotor": {
+        "title": "Advanced rotor",
+        "components": {
+            "large": {
+                "steel_plate": 15,
+                "construction_component": 10,
+                "large_steel_tube": 4,
+                "motor": 4,
+                "computer": 2
+            },
+            "small": {
+                "steel_plate": 5,
+                "construction_component": 5,
+                "small_steel_tube": 1,
+                "motor": 1,
+                "computer": 1
+            }
+        },
+        "icon": "advanced_rotor.png"
+    },
+    "advanced_rotor_part": {
+        "title": "Advanced rotor part",
+        "components": {
+            "large": {
+                "steel_plate": 5,
+                "large_steel_tube": 4
+            }
+        },
+        "icon": "advanced_rotor_part.png"
+    },
+    "button_panel": {
+        "title": "Button panel",
+        "components": {
+            "large": {
+                "interior_plate": 10,
+                "construction_component": 20,
+                "computer": 20
+            },
+            "small": {
+                "steel_plate": 2,
+                "computer": 1,
+                "interior_plate": 1
+            }
+        },
+        "icon": "button_panel.png"
+    },
+    "timer_block": {
+        "title": "Timer block",
+        "components": {
+            "large": {
+                "interior_plate": 6,
+                "construction_component": 30,
+                "computer": 5
+            },
+            "small": {
+                "interior_plate": 2,
+                "construction_component": 3,
+                "computer": 1
+            }
+        },
+        "icon": "timer_block.png"
+    },
+    "solar_panel": {
+        "title": "Solar panel",
+        "components": {
+            "large": {
+                "steel_plate": 4,
+                "construction_component": 10,
+                "large_steel_tube": 1,
+                "computer": 2,
+                "solar_cell": 64
+            },
+            "small": {
+                "steel_plate": 2,
+                "construction_component": 2,
+                "girder": 4,
+                "computer": 1,
+                "solar_cell": 16,
+                "bulletproof_glass": 1
+            }
+        },
+        "icon": "solar_panel.png"
+    },
+    "oxygen_farm": {
+        "title": "Oxygen farm",
+        "components": {
+            "large": {
+                "steel_plate": 40,
+                "bulletproof_glass": 100,
+                "large_steel_tube": 20,
+                "metal_grid": 10,
+                "construction_component": 20,
+                "computer": 20
+            }
+        },
+        "icon": "oxygen_farm.png"
+    },
+    "window_1x2_slope": {
+        "title": "Window 1x2 slope",
+        "components": {
+            "large": {
+                "girder": 16,
+                "bulletproof_glass": 55
+            }
+        },
+        "icon": "window_1x2_slope.png"
+    },
+    "window_1x2_inv": {
+        "title": "Window 1x2 inv",
+        "components": {
+            "large": {
+                "girder": 15,
+                "bulletproof_glass": 40
+            }
+        },
+        "icon": "window_1x2_inv.png"
+    },
+    "window_1x2_face": {
+        "title": "Window 1x2 face",
+        "components": {
+            "large": {
+                "girder": 15,
+                "bulletproof_glass": 40
+            }
+        },
+        "icon": "window_1x2_face.png"
+    },
+    "window_1x2_side_left": {
+        "title": "Window 1x2 side left",
+        "components": {
+            "large": {
+                "girder": 13,
+                "bulletproof_glass": 26
+            }
+        },
+        "icon": "window_1x2_side_left.png"
+    },
+    "window_1x2_side_left_inv": {
+        "title": "Window 1x2 side left inv",
+        "components": {
+            "large": {
+                "girder": 13,
+                "bulletproof_glass": 26
+            }
+        },
+        "icon": "window_1x2_side_left_inv.png"
+    },
+    "window_1x2_side_right": {
+        "title": "Window 1x2 side right",
+        "components": {
+            "large": {
+                "girder": 13,
+                "bulletproof_glass": 26
+            }
+        },
+        "icon": "window_1x2_side_right.png"
+    },
+    "window_1x2_side_right_inv": {
+        "title": "Window 1x2 side right inv",
+        "components": {
+            "large": {
+                "girder": 13,
+                "bulletproof_glass": 26
+            }
+        },
+        "icon": "window_1x2_side_right_inv.png"
+    },
+    "window_1x1_slope": {
+        "title": "Window 1x1 slope",
+        "components": {
+            "large": {
+                "girder": 12,
+                "bulletproof_glass": 35
+            }
+        },
+        "icon": "window_1x1_slope.png"
+    },
+    "window_1x1_face": {
+        "title": "Window 1x1 face",
+        "components": {
+            "large": {
+                "girder": 11,
+                "bulletproof_glass": 24
+            }
+        },
+        "icon": "window_1x1_face.png"
+    },
+    "window_1x1_side": {
+        "title": "Window 1x1 side",
+        "components": {
+            "large": {
+                "girder": 9,
+                "bulletproof_glass": 17
+            }
+        },
+        "icon": "window_1x1_side.png"
+    },
+    "window_1x1_side_inv": {
+        "title": "Window 1x1 side inv",
+        "components": {
+            "large": {
+                "girder": 9,
+                "bulletproof_glass": 17
+            }
+        },
+        "icon": "window_1x1_side_inv.png"
+    },
+    "window_1x1_inv": {
+        "title": "Window 1x1 inv",
+        "components": {
+            "large": {
+                "girder": 11,
+                "bulletproof_glass": 24
+            }
+        },
+        "icon": "window_1x1_inv.png"
+    },
+    "window_1x2_flat": {
+        "title": "Window 1x2 flat",
+        "components": {
+            "large": {
+                "girder": 15,
+                "bulletproof_glass": 50
+            }
+        },
+        "icon": "window_1x2_flat.png"
+    },
+    "window_1x2_flat_inv": {
+        "title": "Window 1x2 flat inv",
+        "components": {
+            "large": {
+                "girder": 15,
+                "bulletproof_glass": 50
+            }
+        },
+        "icon": "window_1x2_flat_inv.png"
+    },
+    "window_1x1_flat": {
+        "title": "Window 1x1 flat",
+        "components": {
+            "large": {
+                "girder": 10,
+                "bulletproof_glass": 25
+            }
+        },
+        "icon": "window_1x1_flat.png"
+    },
+    "window_1x1_flat_inv": {
+        "title": "Window 1x1 flat inv",
+        "components": {
+            "large": {
+                "girder": 10,
+                "bulletproof_glass": 25
+            }
+        },
+        "icon": "window_1x1_flat_inv.png"
+    },
+    "window_3x3_flat": {
+        "title": "Window 3x3 flat",
+        "components": {
+            "large": {
+                "girder": 40,
+                "bulletproof_glass": 196
+            }
+        },
+        "icon": "window_3x3_flat.png"
+    },
+    "window_3x3_flat_inv": {
+        "title": "Window 3x3 flat inv",
+        "components": {
+            "large": {
+                "girder": 40,
+                "bulletproof_glass": 196
+            }
+        },
+        "icon": "window_3x3_flat_inv.png"
+    },
+    "window_2x3_flat": {
+        "title": "Window 2x3 flat",
+        "components": {
+            "large": {
+                "girder": 25,
+                "bulletproof_glass": 140
+            }
+        },
+        "icon": "window_2x3_flat.png"
+    },
+    "window_2x3_flat_inv": {
+        "title": "Window 2x3 flat inv",
+        "components": {
+            "large": {
+                "girder": 25,
+                "bulletproof_glass": 140
+            }
+        },
+        "icon": "window_2x3_flat_inv.png"
+    },
+    "small_conveyor": {
+        "title": "Small conveyor",
+        "components": {
+            "small": {
+                "interior_plate": 4,
+                "construction_component": 4,
+                "motor": 1
+            }
+        },
+        "icon": "small_conveyor.png"
+    },
+    "conveyor": {
+        "title": "Conveyor",
+        "components": {
+            "large": {
+                "interior_plate": 20,
+                "construction_component": 30,
+                "small_steel_tube": 20,
+                "motor": 6
+            },
+            "small": {
+                "interior_plate": 25,
+                "construction_component": 70,
+                "small_steel_tube": 25,
+                "motor": 2
+            }
+        },
+        "icon": "conveyor.png"
+    },
+    "collector": {
+        "title": "Collector",
+        "components": {
+            "large": {
+                "steel_plate": 45,
+                "construction_component": 50,
+                "small_steel_tube": 12,
+                "motor": 8,
+                "display": 4,
+                "computer": 10
+            },
+            "small": {
+                "steel_plate": 35,
+                "construction_component": 35,
+                "small_steel_tube": 12,
+                "motor": 8,
+                "display": 2,
+                "computer": 8
+            }
+        },
+        "icon": "collector.png"
+    },
+    "connector": {
+        "title": "Connector",
+        "components": {
+            "large": {
+                "steel_plate": 150,
+                "construction_component": 40,
+                "small_steel_tube": 12,
+                "motor": 8,
+                "computer": 20
+            },
+            "small": {
+                "steel_plate": 21,
+                "construction_component": 12,
+                "small_steel_tube": 6,
+                "motor": 6,
+                "computer": 6
+            }
+        },
+        "icon": "connector.png"
+    },
+    "ejector": {
+        "title": "Ejector",
+        "components": {
+            "small": {
+                "steel_plate": 7,
+                "construction_component": 4,
+                "small_steel_tube": 2,
+                "motor": 1,
+                "computer": 4
+            }
+        },
+        "icon": "ejector.png"
+    },
+    "conveyor_tube": {
+        "title": "Conveyor tube",
+        "components": {
+            "small": {
+                "interior_plate": 8,
+                "construction_component": 20,
+                "small_steel_tube": 10,
+                "motor": 6
+            },
+            "large": {
+                "interior_plate": 14,
+                "construction_component": 20,
+                "small_steel_tube": 12,
+                "motor": 6
+            }
+        },
+        "icon": "conveyor_tube.png"
+    },
+    "small_conveyor_tube": {
+        "title": "Small conveyor tube",
+        "components": {
+            "small": {
+                "interior_plate": 1,
+                "construction_component": 1,
+                "motor": 1
+            }
+        },
+        "icon": "small_conveyor_tube.png"
+    },
+    "conveyor_frame": {
+        "title": "Conveyor frame",
+        "components": {
+            "small": {
+                "interior_plate": 4,
+                "construction_component": 12,
+                "small_steel_tube": 5,
+                "motor": 2
+            }
+        },
+        "icon": "conveyor_frame.png"
+    },
+    "curved_conveyor_tube": {
+        "title": "Curved conveyor tube",
+        "components": {
+            "large": {
+                "interior_plate": 14,
+                "construction_component": 20,
+                "small_steel_tube": 12,
+                "motor": 6
+            },
+            "small": {
+                "interior_plate": 7,
+                "construction_component": 20,
+                "small_steel_tube": 10,
+                "motor": 6
+            }
+        },
+        "icon": "curved_conveyor_tube.png"
+    },
+    "small_curved_conveyor_tube": {
+        "title": "Small curved conveyor tube",
+        "components": {
+            "small": {
+                "interior_plate": 1,
+                "motor": 1,
+                "construction_component": 1
+            }
+        },
+        "icon": "small_curved_conveyor_tube.png"
+    },
+    "conveyor_sorter": {
+        "title": "Conveyor sorter",
+        "components": {
+            "large": {
+                "interior_plate": 50,
+                "construction_component": 120,
+                "small_steel_tube": 50,
+                "computer": 20,
+                "motor": 2
+            },
+            "small": {
+                "interior_plate": 5,
+                "construction_component": 12,
+                "small_steel_tube": 5,
+                "computer": 5,
+                "motor": 2
+            }
+        },
+        "icon": "conveyor_sorter.png"
+    },
+    "conveyor_sorter_small": {
+        "title": "Conveyor sorter small",
+        "components": {
+            "small": {
+                "interior_plate": 5,
+                "construction_component": 12,
+                "small_steel_tube": 5,
+                "computer": 5,
+                "motor": 2
+            }
+        },
+        "icon": "conveyor_sorter_small.png"
+    },
+    "artificial_mass": {
+        "title": "Artificial mass",
+        "components": {
+            "large": {
+                "steel_plate": 90,
+                "superconductor_component": 20,
+                "construction_component": 30,
+                "computer": 20,
+                "gravity_generator_components": 9
+            },
+            "small": {
+                "steel_plate": 3,
+                "superconductor_component": 2,
+                "construction_component": 2,
+                "computer": 2,
+                "gravity_generator_components": 1
+            }
+        },
+        "icon": "artificial_mass.png"
+    },
+    "space_ball": {
+        "title": "Space ball",
+        "components": {
+            "large": {
+                "steel_plate": 225,
+                "construction_component": 30,
+                "computer": 20,
+                "gravity_generator_components": 3
+            },
+            "small": {
+                "steel_plate": 70,
+                "construction_component": 10,
+                "computer": 7,
+                "gravity_generator_components": 1
+            }
+        },
+        "icon": "space_ball.png"
+    },
+    "wheel_1x1": {
+        "title": "Wheel 1x1",
+        "components": {
+            "small": {
+                "steel_plate": 2,
+                "construction_component": 5,
+                "large_steel_tube": 1
+            },
+            "large": {
+                "steel_plate": 8,
+                "construction_component": 20,
+                "large_steel_tube": 4
+            }
+        },
+        "icon": "wheel_1x1.png"
+    },
+    "wheel_3x3": {
+        "title": "Wheel 3x3",
+        "components": {
+            "small": {
+                "steel_plate": 5,
+                "construction_component": 10,
+                "large_steel_tube": 1
+            },
+            "large": {
+                "steel_plate": 12,
+                "construction_component": 25,
+                "large_steel_tube": 6
+            }
+        },
+        "icon": "wheel_3x3.png"
+    },
+    "wheel_5x5": {
+        "title": "Wheel 5x5",
+        "components": {
+            "small": {
+                "steel_plate": 7,
+                "construction_component": 15,
+                "large_steel_tube": 2
+            },
+            "large": {
+                "steel_plate": 16,
+                "construction_component": 30,
+                "large_steel_tube": 8
+            }
+        },
+        "icon": "wheel_5x5.png"
+    },
+    "grinder": {
+        "title": "Grinder",
+        "components": {
+            "large": {
+                "steel_plate": 20,
+                "construction_component": 30,
+                "large_steel_tube": 1,
+                "motor": 4,
+                "computer": 2
+            },
+            "small": {
+                "steel_plate": 12,
+                "construction_component": 17,
+                "small_steel_tube": 4,
+                "large_steel_tube": 1,
+                "motor": 4,
+                "computer": 2
+            }
+        },
+        "icon": "grinder.png"
+    },
+    "welder": {
+        "title": "Welder",
+        "components": {
+            "large": {
+                "steel_plate": 20,
+                "construction_component": 30,
+                "large_steel_tube": 1,
+                "motor": 2,
+                "computer": 2
+            },
+            "small": {
+                "steel_plate": 12,
+                "construction_component": 17,
+                "small_steel_tube": 6,
+                "large_steel_tube": 1,
+                "motor": 2,
+                "computer": 2
+            }
+        },
+        "icon": "welder.png"
+    },
+    "merge_block": {
+        "title": "Merge block",
+        "components": {
+            "large": {
+                "steel_plate": 12,
+                "construction_component": 17,
+                "motor": 2,
+                "small_steel_tube": 6,
+                "large_steel_tube": 1,
+                "computer": 2
+            },
+            "small": {
+                "steel_plate": 4,
+                "construction_component": 5,
+                "motor": 1,
+                "small_steel_tube": 2,
+                "computer": 1
+            }
+        },
+        "icon": "merge_block.png"
+    },
+    "blast_doors": {
+        "title": "Blast doors",
+        "components": {
+            "large": {
+                "steel_plate": 140
+            },
+            "small": {
+                "steel_plate": 5
+            }
+        },
+        "icon": "blast_door.png"
+    },
+    "blast_door_corner": {
+        "title": "Blast door corner",
+        "components": {
+            "large": {
+                "steel_plate": 120
+            },
+            "small": {
+                "steel_plate": 5
+            }
+        },
+        "icon": "blast_door_corner.png"
+    },
+    "blast_door_inv_corner": {
+        "title": "Blast door corner inverted",
+        "components": {
+            "large": {
+                "steel_plate": 135
+            },
+            "small": {
+                "steel_plate": 5
+            }
+        },
+        "icon": "blast_door_inverted.png"
+    },
+    "blast_door_edge": {
+        "title": "Blast door edge",
+        "components": {
+            "large": {
+                "steel_plate": 130
+            },
+            "small": {
+                "steel_plate": 5
+            }
+        },
+        "icon": "blast_door_edge.png"
+    },
+    "laser_antenna": {
+        "title": "Laser antenna",
+        "components": {
+            "large": {
+                "steel_plate": 50,
+                "construction_component": 40,
+                "motor": 16,
+                "detector_components": 30,
+                "radio-communication_components": 20,
+                "superconductor_component": 100,
+                "computer": 50,
+                "bulletproof_glass": 4
+            },
+            "small": {
+                "steel_plate": 10,
+                "small_steel_tube": 10,
+                "construction_component": 10,
+                "motor": 5,
+                "radio-communication_components": 5,
+                "superconductor_component": 10,
+                "computer": 30,
+                "bulletproof_glass": 2
+            }
+        },
+        "icon": "laser_antenna.png"
+    },
+    "airtight_hangar_door": {
+        "title": "Airtight hangar door",
+        "components": {
+            "large": {
+                "steel_plate": 350,
+                "construction_component": 40,
+                "small_steel_tube": 40,
+                "motor": 16,
+                "computer": 2
+            }
+        },
+        "icon": "airtight_hangar_door.png"
+    },
+    "sliding_door": {
+        "title": "Sliding door",
+        "components": {
+            "large": {
+                "steel_plate": 20,
+                "construction_component": 40,
+                "small_steel_tube": 4,
+                "motor": 4,
+                "display": 1,
+                "computer": 2,
+                "bulletproof_glass": 15
+            }
+        },
+        "icon": "sliding_door.png"
+    },
+    "parachute_hatch": {
+        "title": "Parachute hatch",
+        "components": {
+            "large": {
+                "steel_plate": 9,
+                "construction_component": 25,
+                "small_steel_tube": 5,
+                "motor": 3,
+                "computer": 2
+            },
+            "small": {
+                "steel_plate": 2,
+                "construction_component": 2,
+                "small_steel_tube": 1,
+                "motor": 1,
+                "computer": 1
+            }
+        },
+        "icon": "parachute_hatch.png"
+    },
+    "programmable_block": {
+        "title": "Programmable block",
+        "icon": "programmable_block.png",
+        "components": {
+            "small": {
+                "computer": 2,
+                "display": 1,
+                "motor": 1,
+                "large_steel_tube": 2,
+                "construction_component": 2,
+                "steel_plate": 2
+            },
+            "large": {
+                "computer": 2,
+                "display": 1,
+                "motor": 1,
+                "large_steel_tube": 2,
+                "construction_component": 4,
+                "steel_plate": 21
+            }
+        }
+    }
+}

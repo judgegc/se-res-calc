@@ -1,0 +1,20 @@
+{
+  "name": "SE resource calc",
+  "short_name": "SE calc",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Space Engineers resource calculator",
+  "icons": [
+    {
+      "src": "assets/images/icon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    }
+  ]
+}

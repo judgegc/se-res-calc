@@ -1,0 +1,209 @@
+{
+    "interior_plate": {
+        "title": "Interior plate",
+        "icon": "interior_plate.png",
+        "components": {
+            "iron_ingot": 3.5
+        }
+    },
+    "construction_component": {
+        "title": "Construction component",
+        "icon": "construction_component.png",
+        "components": {
+            "iron_ingot": 10
+        }
+    },
+    "5.56x45mm_NATO_magazine": {
+        "title": "5.56x45mm NATO Magazine",
+        "icon": "5.56x45mm_NATO_magazine.png",
+        "components": {
+            "iron_ingot": 0.8,
+            "nickel_ingot": 0.2,
+            "magnesium_powder": 0.15
+        }
+    },
+    "25x184mm_NATO_ammo_container": {
+        "title": "25x184mm NATO Ammo Container",
+        "icon": "25x184mm_NATO_ammo_container.png",
+        "components": {
+            "iron_ingot": 40,
+            "nickel_ingot": 5,
+            "magnesium_powder": 3
+        }
+    },
+    "200mm_missile_container": {
+        "title": "200mm Missile Container",
+        "icon": "200mm_missile_container.png",
+        "components": {
+            "iron_ingot": 55,
+            "nickel_ingot": 7,
+            "magnesium_powder": 1.2,
+            "silicon_wafer": 0.2,
+            "uranium_ingot": 0.1,
+            "platinum_ingot": 0.04
+        }
+    },
+    "bulletproof_glass": {
+        "title": "Bulletproof Glass",
+        "icon": "bulletproof_glass.png",
+        "components": {
+            "silicon_wafer": 15
+        }
+    },
+    "canvas": {
+        "title": "Canvas",
+        "icon": "canvas.png",
+        "components": {
+            "silicon_wafer": 35,
+            "iron_ingot": 2
+        }
+    },
+    "computer": {
+        "title": "Computer",
+        "icon": "computer.png",
+        "components": {
+            "silicon_wafer": 0.2,
+            "iron_ingot": 0.5
+        }
+    },
+    "detector_components": {
+        "title": "Detector Components",
+        "icon": "detector_components.png",
+        "components": {
+            "iron_ingot": 15,
+            "nickel_ingot": 5
+        }
+    },
+    "explosives": {
+        "title": "Explosives",
+        "icon": "explosives.png",
+        "components": {
+            "silicon_wafer": 0.5,
+            "magnesium_powder": 2
+        }
+    },
+    "display": {
+        "title": "Display",
+        "icon": "display.png",
+        "components": {
+            "iron_ingot": 1,
+            "silicon_wafer": 5
+        }
+    },
+    "girder": {
+        "title": "Girder",
+        "icon": "girder.png",
+        "components": {
+            "iron_ingot": 7
+        }
+    },
+    "gravity_generator_components": {
+        "title": "Gravity Generator Components",
+        "icon": "gravity_generator_components.png",
+        "components": {
+            "iron_ingot": 600,
+            "silver_ingot": 5,
+            "gold_ingot": 10,
+            "cobalt_ingot": 220
+        }
+    },
+    "large_steel_tube": {
+        "title": "Large steel tube",
+        "icon": "large_steel_tube.png",
+        "components": {
+            "iron_ingot": 30
+        }
+    },
+    "medical_components": {
+        "title": "medical components",
+        "icon": "medical_components.png",
+        "components": {
+            "iron_ingot": 60,
+            "nickel_ingot": 70,
+            "silver_ingot": 20
+        }
+    },
+    "metal_grid": {
+        "title": "Metal grid",
+        "icon": "metal_grid.png",
+        "components": {
+            "iron_ingot": 12,
+            "nickel_ingot": 5,
+            "cobalt_ingot": 3
+        }
+    },
+    "motor": {
+        "title": "Motor",
+        "icon": "motor.png",
+        "components": {
+            "iron_ingot": 20,
+            "nickel_ingot": 5
+        }
+    },
+    "power_cell": {
+        "title": "Power cell",
+        "icon": "power_cell.png",
+        "components": {
+            "iron_ingot": 10,
+            "nickel_ingot": 2,
+            "silicon_wafer": 1
+        }
+    },
+    "radio-communication_components": {
+        "title": "Radio-Communication Components",
+        "icon": "radio-communication_components.png",
+        "components": {
+            "iron_ingot": 8,
+            "silicon_wafer": 1
+        }
+    },
+    "reactor_components": {
+        "title": "Reactor components",
+        "icon": "reactor_components.png",
+        "components": {
+            "iron_ingot": 15,
+            "gravel": 20,
+            "silver_ingot": 5
+        }
+    },
+    "small_steel_tube": {
+        "title": "Small steel tube",
+        "icon": "small_steel_tube.png",
+        "components": {
+            "iron_ingot": 5
+        }
+    },
+    "solar_cell": {
+        "title": "Solar cell",
+        "icon": "solar_cell.png",
+        "components": {
+            "nickel_ingot": 10,
+            "silicon_wafer": 8
+        }
+    },
+    "steel_plate": {
+        "title": "Steel plate",
+        "icon": "steel_plate.png",
+        "components": {
+            "iron_ingot": 21
+        }
+    },
+    "superconductor_component": {
+        "title": "Superconductor Component",
+        "icon": "superconductor_component.png",
+        "components": {
+            "iron_ingot": 10,
+            "gold_ingot": 2
+        }
+    },
+    "thruster_components": {
+        "title": "Thruster Components",
+        "icon": "thruster_components.png",
+        "components": {
+            "iron_ingot": 30,
+            "gold_ingot": 1,
+            "cobalt_ingot": 10,
+            "platinum_ingot": 0.4
+        }
+    }
+}

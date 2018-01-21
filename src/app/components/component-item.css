@@ -1,0 +1,14 @@
+.container {
+    margin: 0 10px;
+    display: flex;
+}
+
+.title {
+    margin: 0 25px 0 10px;
+    align-self: center;
+}
+
+.amount {
+    align-self: center;
+    margin-left: auto;
+}

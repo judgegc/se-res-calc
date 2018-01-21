@@ -1,0 +1,22 @@
+.header
+{
+    display: flex;
+    align-items: center;
+    background-color: #407599;
+}
+
+.icon {
+    width: 48px;
+    height: 48px;
+    margin-left: 30px;
+}
+
+.projectMode {
+    padding: 10px;
+    background-color: #407599;
+}
+
+.calcZone {
+    display: flex;
+    margin: 0 100px;
+}

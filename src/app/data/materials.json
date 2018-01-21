@@ -1,0 +1,62 @@
+{
+    "cobalt_ingot": {
+        "title": "Cobalt ingot",
+        "icon": "cobalt_ingot.png",
+        "ratio": 0.3,
+        "ore": "cobalt_ore"
+    },
+    "gold_ingot": {
+        "title": "Gold ingot",
+        "icon": "gold_ingot.png",
+        "ratio": 0.01,
+        "ore": "gold_ore"
+    },
+    "gravel": {
+        "title": "Gravel",
+        "icon": "gravel.png",
+        "ratio": 0.9,
+        "ore": "stone"
+    },
+    "iron_ingot": {
+        "title": "Iron ingot",
+        "icon": "iron_ingot.png",
+        "ratio": 0.7,
+        "ore": "iron_ore"
+    },
+    "magnesium_powder": {
+        "title": "Magnesium powder",
+        "icon": "magnesium_powder.png",
+        "ratio": 0.007,
+        "ore": "magnesium_ore"
+    },
+    "nickel_ingot": {
+        "title": "Nickel ingot",
+        "icon": "nickel_ingot.png",
+        "ratio": 0.4,
+        "ore": "nickel_ore"
+    },
+    "platinum_ingot": {
+        "title": "Platinum ingot",
+        "icon": "platinum_ingot.png",
+        "ratio": 0.005,
+        "ore": "platinum_ore"
+    },
+    "silicon_wafer": {
+        "title": "Silicon wafer",
+        "icon": "silicon_wafer.png",
+        "ratio": 0.7,
+        "ore": "silicon_ore"
+    },
+    "silver_ingot": {
+        "title": "Silver ingot",
+        "icon": "silver_ingot.png",
+        "ratio": 0.1,
+        "ore": "silver_ore"
+    },
+    "uranium_ingot": {
+        "title": "Uranium ingot",
+        "icon": "uranium_ingot.png",
+        "ratio": 0.007,
+        "ore": "uranium_ore"
+    }
+}

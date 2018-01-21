@@ -1,0 +1,19 @@
+.item {
+    width: 48px;
+    height: 48px;
+    margin: 3px;
+}
+
+.disabled {
+    filter: grayscale(1);
+}
+
+.tooltipTitle {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.components {
+    padding: 0 0 10px !important;
+    background-color: #2c5b7c !important;
+}

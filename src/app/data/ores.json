@@ -1,0 +1,46 @@
+{
+    "cobalt_ore": {
+        "title": "Cobalt ore",
+        "icon": "cobalt_ore.png"
+    },
+    "gold_ore": {
+        "title": "Gold ore",
+        "icon": "gold_ore.png"
+    },
+    "ice": {
+        "title": "Ice",
+        "icon": "ice.png"
+    },
+    "iron_ore": {
+        "title": "Iron ore",
+        "icon": "iron_ore.png"
+    },
+    "magnesium_ore": {
+        "title": "Magnesium ore",
+        "icon": "magnesium_ore.png"
+    },
+    "nickel_ore": {
+        "title": "Nickel ore",
+        "icon": "nickel_ore.png"
+    },
+    "platinum_ore": {
+        "title": "Platinum ore",
+        "icon": "platinum_ore.png"
+    },
+    "silicon_ore": {
+        "title": "Silicon ore",
+        "icon": "silicon_ore.png"
+    },
+    "silver_ore": {
+        "title": "Silver ore",
+        "icon": "silver_ore.png"
+    },
+    "stone": {
+        "title": "Stone",
+        "icon": "stone.png"
+    },
+    "uranium_ore": {
+        "title": "Uranium ore",
+        "icon": "uranium_ore.png"
+    }
+}

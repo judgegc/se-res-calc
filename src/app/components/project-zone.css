@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.empty {
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    margin: 3px;
+    background-color: #2b3a42;
+}
+
+.row {
+    display: flex;
+}
+
+.clearButtonHolder {
+    padding: 5px;
+    background-color: #407599;
+}
+
+.clearButton {
+    padding: 2px 5px;
+    cursor: pointer;
+    float: right;
+    font-weight: bold;
+    border: 2px solid #171a21;
+    background-color: #407599;
+    outline: 0;
+}
+
+.clearButton:active {
+    background-color: #171a21;
+  }

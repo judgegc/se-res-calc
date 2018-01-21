@@ -1,0 +1,13 @@
+.container {
+    position: relative;
+    display: inline-block;
+}
+
+.amount {
+    position: absolute;
+    right: 10;
+    bottom: 0;
+    float: left;
+    color: #f8f8f8;
+    user-select: none;
+}

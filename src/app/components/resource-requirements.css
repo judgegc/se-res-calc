@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    color: #868686
+}
+
+.placeholder {
+    position: relative;
+    top: 50%;
+    margin: auto 100px;
+    color: #868686;
+    font-size:  2em; 
+    transform: translateY(-50%);
+}
