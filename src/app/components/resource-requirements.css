@@ -4,6 +4,7 @@
 }
 
 .placeholder {
+    display: none;
     position: relative;
     top: 50%;
     margin: auto 100px;
