@@ -12,3 +12,9 @@
     font-size:  2em; 
     transform: translateY(-50%);
 }
+
+@media screen and (max-width: 900px) {
+    .containter {
+        flex-direction: column;
+    }
+}
