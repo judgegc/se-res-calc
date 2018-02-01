@@ -29,3 +29,9 @@
     border-radius: 50%;
     outline: 0;
 }
+
+@media screen and (max-width: 900px) {
+    .searchBox {
+        width: 80%;
+    }
+}
